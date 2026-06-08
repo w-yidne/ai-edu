@@ -1,7 +1,7 @@
 import { getSession } from "./session";
 
 const DEFAULT_ADMIN_USERNAME = "admin";
-const DEFAULT_ADMIN_PASSWORD = "password";
+const DEFAULT_ADMIN_PASSWORD = "hasesa-admin-7q2x";
 
 export function adminCredentials(): { username: string; password: string } {
   return {
